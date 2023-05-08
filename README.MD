@@ -1,7 +1,8 @@
 
 ## How to Use the Microservice
 
-This script can be run from a terminal by typing `$python3 server.py`.
+This script can be run from the directory where the file is located
+by opening a terminal and typing `$python3 server.py`.
 You should get a message indicating that the server has started.
 The HTTP server will be running on localhost (127.0.0.1) port 8080.
 
