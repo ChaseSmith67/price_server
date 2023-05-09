@@ -17,3 +17,7 @@ associated with that id.
 
 If a request is made for a product that does not exist, an error is returned
 as a JSON object, like this {"error": "Product not found"}.
+
+## Sequence Diagram
+
+![Sequence Diagram for Price Server](https://github.com/ChaseSmith67/price_server/blob/main/Sequence_diagram.png)
